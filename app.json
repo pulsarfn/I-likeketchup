@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
+  "name": "Iron web unblocker",
   "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
+  "repository": "https://github.com/pulsarfn/I-likeketchup",
+  "logo": "https://iron-web-online-games.vercel.app/icon.png",
   "keywords": ["tomp", "ultraviolet"]
 }
